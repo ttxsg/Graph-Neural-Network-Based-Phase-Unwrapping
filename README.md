@@ -140,7 +140,7 @@ If you find this work useful in your research, please consider citing:
   title   = {Graph Neural Network-Based Phase Unwrapping for Sparse Discontinuous Surfaces in Laser Interferometry},
   author  = {Zhenxin Xin and Ping Zhong},
   journal = {Optics and Lasers in Engineering},
-  year    = {2024},
+  year    = {2025},
   note    = {(Under review)}
 }
 ```
@@ -163,20 +163,9 @@ This work was supported by the *Key Laboratory of Optoelectronic Detection Techn
 ## 📬 Contact
 
 For questions, please contact:
-📧 **Zhenxin Xin** — [[your_email@domain.com](mailto:your_email@domain.com)]
+📧 **Zhenxin Xin** — [[386857251@qq.com]]
 or open an issue on GitHub.
 
 ```
 
 ---
-
-### 💡说明
-这个版本：
-- 语言正式、简洁、结构清晰；
-- 与论文题目、风格完全一致；
-- 避免了模板化语气（如“code Bash”等冗余）；
-- 引言和模型说明部分学术性强，适合投稿后开源；
-- 支持你添加 Google Drive 链接、邮箱即可直接发布到 GitHub。
-
-是否希望我帮你补上 README 顶部的 **论文 DOI / arXiv 链接**（等正式发表后可以更新）？
-```
