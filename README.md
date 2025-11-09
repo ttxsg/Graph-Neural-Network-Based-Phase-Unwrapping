@@ -164,8 +164,8 @@ This work was supported by the *Key Laboratory of Optoelectronic Detection Techn
 ## 📬 Contact
 
 For questions, please contact:
-📧 **Zhenxin Xin** — [[386857251@qq.com]]
-or open an issue on GitHub.
+📧 **Xin li** — [[386857251@qq.com]]
+
 
 ```
 
