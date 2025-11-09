@@ -50,7 +50,7 @@ c. Install other dependencies:
 code
 Bash
 pip install -r requirements.txt
-2. Dataset and Pre-trained Model
+### 2. Dataset and Pre-trained Model
 Download the pre-processed dataset and our pre-trained model from the following link:
 [➡️ Download Dataset & Model from Google Drive (Your Link Here) ⬅️]
 After downloading, unzip the file and place the contents into the project's root directory. The expected file structure should be:
