@@ -1,8 +1,4 @@
-当然可以，下面是一个经过润色、排版规范、风格正式的 **README.md** Markdown 文档版本，适合你论文投稿后开源代码时在 GitHub 上发布👇
 
----
-
-````markdown
 # Graph Neural Network-Based Phase Unwrapping (GNNPU)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
