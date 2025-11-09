@@ -9,15 +9,15 @@
 This repository provides the **official PyTorch implementation** of the paper:
 
 > **Graph Neural Network-Based Phase Unwrapping for Sparse Discontinuous Surfaces in Laser Interferometry**  
-> *Zhenxin Xin, [Your Co-authors], Ping Zhong*  
-> Submitted to *Optics and Lasers in Engineering* (Under Review)
+> *Zhenxin Xin, Ping Zhong*  
+> Submitted to *Optics and Lasers in Engineering* (*****)
 
 ---
 
 ## 🌟 Overview
 
 **GNNPU** introduces a novel graph neural network framework for phase unwrapping on sparse and discontinuous surfaces.  
-By constructing a **Delaunay graph** from sparse points and leveraging **Graph Attention Networks (GATv2)**, GNNPU predicts **wrap count differences** along edges and integrates them to reconstruct a globally consistent phase map.
+By constructing a **Delaunay graph** from sparse points and leveraging **Graph Attention Networks **, GNNPU predicts **wrap count differences** along edges and integrates them to reconstruct a globally consistent phase map.
 
 <p align="center">
   <img src="assets/teaser.png" width="800" alt="GNNPU Workflow">
