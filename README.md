@@ -20,7 +20,7 @@ This repository provides the **official PyTorch implementation** of the paper:
 By constructing a **Delaunay graph** from sparse points and leveraging **Graph Attention Networks **, GNNPU predicts **wrap count differences** along edges and integrates them to reconstruct a globally consistent phase map.
 
 <p align="center">
-  <img src="assets/teaser.png" width="800" alt="GNNPU Workflow">
+  <img src="GNN_workflow.png" width="800" alt="GNNPU Workflow">
 </p>
 <p align="center">
   <em><b>Fig. 1</b>: GNNPU workflow. From a sparse wrapped phase (left), a Delaunay graph is constructed.  
