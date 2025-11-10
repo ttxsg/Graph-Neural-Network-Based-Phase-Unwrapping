@@ -39,7 +39,7 @@ Try our interactive demo on Hugging Face Spaces! You can generate random phase d
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/xinli11/GNNPU)
 
 <p align="center">
-  <a href="https://huggingface.co/spaces/xinli11/GNNPU" target="_blank">
+  <a href="https://huggingface.co/spaces/xinli11/GNNPU_public" target="_blank">
     <img src="效果图.svg" alt="GNNPU Demo Screenshot" width="100%">
   </a>
 </p>
