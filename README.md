@@ -30,6 +30,24 @@ By constructing a **Delaunay graph** from sparse points and leveraging **Graph A
 
 ---
 
+
+
+## 🚀 Live Demo
+
+Try our interactive demo on Hugging Face Spaces! You can generate random phase data or upload your own `.mat` files to see GNNPU in action.
+
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/xinli11/GNNPU)
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/xinli11/GNNPU" target="_blank">
+    <img src="https://huggingface.co/spaces/xinli11/GNNPU/resolve/main/GNNPU_test.png" alt="GNNPU Demo Screenshot" width="100%">
+  </a>
+</p>
+<p align="center">
+  <em>Click the image above to try the live demo.</em>
+</p>
+---
+
 ## ⚙️ Installation
 
 ### 1. Clone the repository
