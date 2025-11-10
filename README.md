@@ -40,7 +40,7 @@ Try our interactive demo on Hugging Face Spaces! You can generate random phase d
 
 <p align="center">
   <a href="https://huggingface.co/spaces/xinli11/GNNPU" target="_blank">
-    <img src="GNNPU_test_demo.png" alt="GNNPU Demo Screenshot" width="100%">
+    <img src="GNNPU_test3.png" alt="GNNPU Demo Screenshot" width="100%">
   </a>
 </p>
 <p align="center">
