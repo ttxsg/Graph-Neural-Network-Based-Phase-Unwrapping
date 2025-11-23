@@ -157,7 +157,7 @@ If you find this work useful in your research, please consider citing:
 ```bibtex
 @article{xin2024gnnpu,
   title   = {Graph Neural Network-Based Phase Unwrapping for Sparse Discontinuous Surfaces in Laser Interferometry},
-  author  = {Zhenxin Xin and Ping Zhong},
+  author  = {Xinli Zheng and Ping Zhong},
   journal = {Optics and Lasers in Engineering},
   year    = {2025},
   note    = {(Under review)}
